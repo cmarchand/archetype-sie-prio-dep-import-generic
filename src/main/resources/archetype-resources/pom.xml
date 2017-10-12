@@ -403,10 +403,5 @@
       <id>nexus-releases</id>
       <url>http://srvic/nexus/content/repositories/releases</url>
     </repository>
-    <site>
-      <id>magneto</id>
-      <name>Magneto website</name>
-      <url>file:///var/www/html/Artefact/${project.groupId}/${project.artifactId}/${project.version}/</url>
-    </site>
   </distributionManagement>
 </project>

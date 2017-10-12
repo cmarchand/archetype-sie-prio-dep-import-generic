@@ -7,7 +7,7 @@
 
   <groupId>top.marchand.archetype</groupId>
   <artifactId>sie-xf-prio-dep-import-generic</artifactId>
-  <version>1.0.0-RC1</version>
+  <version>1.0.0-RC2-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <name>import-generic-sample</name>
