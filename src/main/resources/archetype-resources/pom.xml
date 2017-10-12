@@ -20,7 +20,7 @@
   <name>Déploiement import TODO: mettre ici le nom de ce qui doit être importé</name>
 
   <properties>
-    <sas.version>TODO: mettre ici la version du SAS à utiliser. Les versions du sas sont disponibles ici : http://srvic/nexus/content/repositories/releases/eu/els/sie/xmlFirst/xf-sas/</sas.version>
+    <sas.version>TODO: mettre ici la version du SAS à utiliser. Les versions du sas sont disponibles ici : http://srvic/nexus/content/repositories/releases/eu/els/sie/xdev/flash/xf-sas/</sas.version>
     <xf-lib.version>3.0.8</xf-lib.version>
     <gaulois.config.file>cp:/import-${grammar}.xml</gaulois.config.file>
     <!-- ne devrait pas changer d'un projet à l'autre -->
